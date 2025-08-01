@@ -1,8 +1,7 @@
-# Track-My-Expenses
-**Track My Expenses**: A modern, full-featured web application designed to help users manage their personal finances with ease. Built with vanilla JavaScript and powered by Google Firebase, this single-page application provides a seamless and responsive user experience for tracking expenses, setting budgets, and gaining financial insights. The integration of the Gemini API offers users personalized financial advice based on their spending habits.
+# Track-My-Spends Check_out_here    https://track-my-expenses-13z.web.app/ 
+Track My Expenses: A modern, full-featured web application designed to help users manage their personal finances with ease. Built with vanilla JavaScript and powered by Google Firebase, this single-page application provides a seamless and responsive user experience for tracking expenses, setting budgets, and gaining financial insights. The integration of the Gemini API offers users personalized financial advice based on their spending habits.
 
-Key Features
-Secure User Authentication: Full authentication system including user sign-up, login, logout, and password reset functionality, all handled securely by Firebase Authentication.
+Key Features Secure User Authentication: Full authentication system including user sign-up, login, logout, and password reset functionality, all handled securely by Firebase Authentication.
 
 Comprehensive Expense Tracking: Users can add, delete, and view expenses. The interface allows for easy filtering of expenses by month and year, ensuring historical data is always accessible.
 
@@ -16,8 +15,7 @@ Professional Reporting: Generate and print clean, professional expense reports f
 
 Responsive Design & Theming: The application is fully responsive and works beautifully on desktop, tablet, and mobile devices. It also includes a user-toggleable Dark/Light theme for comfortable viewing in any lighting condition.
 
-Technology Stack
-Frontend: HTML5, CSS3, Vanilla JavaScript (ES6 Modules)
+Technology Stack Frontend: HTML5, CSS3, Vanilla JavaScript (ES6 Modules)
 
 Styling: Bootstrap 5
 
@@ -29,8 +27,7 @@ Cloud Firestore: As the NoSQL database for all application data.
 
 AI Integration: Google Gemini API
 
-Setup and Configuration
-To run this project locally, you will need to configure your own Firebase project and obtain a Gemini API key.
+Setup and Configuration To run this project locally, you will need to configure your own Firebase project and obtain a Gemini API key.
 
 Clone the repository.
 
